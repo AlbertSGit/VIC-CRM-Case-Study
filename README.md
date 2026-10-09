@@ -14,6 +14,60 @@ A custom web application supporting everyday operations in the medical and cosme
 **Documented development period:** May - August 2026  
 **Repository scope:** Portfolio documentation. Application source code is not included.
 
+## Application preview
+
+Actual VIC CRM screens showing a test client and sample appointment. The interface is in Polish.
+
+### Appointment calendar
+
+The weekly calendar keeps appointments and the selected visit in one view. The side panel brings together visit status, timing, services, series and settlement controls.
+
+<p align="center">
+  <a href="assets/01-calendar-visit.png"><img src="assets/01-calendar-visit.png" alt="VIC CRM weekly calendar with a test appointment and visit details" width="100%"></a>
+</p>
+
+### Client overview
+
+A single client view combines visit history, recent activity, notes and follow-up actions.
+
+<p align="center">
+  <a href="assets/02-client-overview.png"><img src="assets/02-client-overview.png" alt="VIC CRM test client overview with appointment history and follow-up actions" width="100%"></a>
+</p>
+
+<details>
+<summary><strong>Explore the workflow: adding a client</strong></summary>
+
+A focused dialog collects client details, assigns an employee and records the acquisition source and segment.
+
+<p align="center">
+  <a href="assets/03-add-client.png"><img src="assets/03-add-client.png" alt="New client dialog with name, phone, employee, email, source and segment fields" width="100%"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Explore the workflow: calendar actions</strong></summary>
+
+Selecting a time slot exposes three actions: a new appointment, a time reservation or a time block.
+
+<p align="center">
+  <a href="assets/04-calendar-actions.png"><img src="assets/04-calendar-actions.png" alt="Calendar time-slot menu with new appointment, reservation and time block actions" width="100%"></a>
+</p>
+
+</details>
+
+### Mobile calendar
+
+The mobile view presents the day's schedule with date navigation, appointment cards and bottom navigation for Calendar, Clients, Tasks and Profile.
+
+<p align="center">
+  <a href="assets/05-mobile-calendar.jpeg"><img src="assets/05-mobile-calendar.jpeg" alt="VIC CRM mobile daily calendar with a test appointment and bottom navigation" width="310"></a>
+</p>
+
+<p align="center"><sub>Click any screenshot to view it at full size. VIC CRM · Albert Smoliński</sub></p>
+
+---
+
 ## Business context
 
 Managing clients, appointments, documentation, service series, settlements and tasks involves interconnected workflows. VIC CRM brings these areas into one application and supports access from desktop computers, tablets and mobile devices.
